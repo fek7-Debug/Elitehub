@@ -7,4 +7,5 @@ Elite Hub V1 es un script **nativo y ultra ligero** diseñado para ofrecer una v
 Copia y pega el siguiente código en tu ejecutor (Delta, Arceus X, Fluxus, etc.):
 
 ```lua
-loadstring(game:HttpGet("[https://raw.githubusercontent.com/fek7-Debug/Elitehub/refs/heads/main/main.lua](https://raw.githubusercontent.com/fek7-Debug/Elitehub/refs/heads/main/main.lua)"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fek7-Debug/Elitehub/refs/heads/main/main.lua"))()
+
